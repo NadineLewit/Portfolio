@@ -4,7 +4,7 @@ import Home from './components/Home'
 import Creaciones from './components/Creaciones'
 import Favs from './components/Favs'
 import InfoPersonal from './components/InfoPersonal'
-import Navbarr from './components/Navbarr'
+import Navbarr from './components/navbar'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
